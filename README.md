@@ -28,6 +28,12 @@ Managing revenues and customer.
 
 Walkthrough customer's review to keep up the good work and improve the suggestions made.
 
+## Technologies Used
+
+Java
+
+JavaFX
+
 ## Requirements
 
 To run this project, you will need the following tools:
@@ -35,6 +41,10 @@ To run this project, you will need the following tools:
 JAR Libraries to be included in your referenced libraries
 
 Update your settings.json with the place of JAR files.
+
+## Acknowledgements
+
+This project is licensed under the MIT License.
 
 
 
