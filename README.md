@@ -12,27 +12,27 @@ the day.
 
 # Client Features
 
-Create account or Login to experience a seamless ticketing system.
+- Create account or Login to experience a seamless ticketing system.
 
-Browsing the availability of movies and seats within a timeframe of one's choice.
+- Browsing the availability of movies and seats within a timeframe of one's choice.
 
-Purchasing tickets as per the price of the movie for regular and VIP seats respectively.
+- Purchasing tickets as per the price of the movie for regular and VIP seats respectively.
 
-Provide rating and response based on their experience.
+- Provide rating and response based on their experience.
 
 # Manager Features
 
-Movie and Seat management.
+- Movie and Seat management.
 
-Managing revenues and customer.
+- Managing revenues and customer.
 
-Walkthrough customer's review to keep up the good work and improve the suggestions made.
+- Walkthrough customer's review to keep up the good work and improve the suggestions made.
 
 ## Technologies Used
 
-Java
+- Java
 
-JavaFX
+- JavaFX
 
 ## Requirements
 
@@ -42,9 +42,7 @@ JAR Libraries to be included in your referenced libraries
 
 Update your settings.json with the place of JAR files.
 
-## Acknowledgements
 
-This project is licensed under the MIT License.
 
 
 
